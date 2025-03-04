@@ -11,4 +11,5 @@
 3. ЗАПУСКАТЬ ЧЕРЕЗ:
 
 cd/путь/KittenSPAM/
+
 python KittenSPAM.py
